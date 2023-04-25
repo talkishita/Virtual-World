@@ -1,0 +1,5 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+A while loop in Python is used for what type of iteration?,definite,indefinite,indeterminate,discriminant,2
+"What is a correct syntax to output ""Hello World"" in Python?","print(""Hello World"")","p(""Hello World"")","echo ""Hello World""","echo(""Hello World"")",1
+What is the variable type of a? a = ''yes'',Integer,Float,String,Character,3
+How do you insert COMMENTS in Python code?,/*This is a comment*/,//This is a comment,#This is a comment,**This is a comment**,3
